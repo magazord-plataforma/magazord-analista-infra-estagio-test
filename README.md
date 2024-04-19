@@ -12,6 +12,8 @@ Este repositório tem como fim testar os candidatos para vaga de Analista de Inf
 
 > [!NOTE]
 > Esse teste visa avaliar os conhecimentos básicos em sistema operacional Linux, que é utilizado diariamente nas tarefas do setor de infraestrutura Web.
+
+> [!NOTE]
 > Complete as tarefas propostas de maneira organizada, documentando as etapas realizadas de forma objetiva em documento digital (PDF), com prints de toda a tela, comprovando a execução e resultados dos comandos.
 
 > [!NOTE]
